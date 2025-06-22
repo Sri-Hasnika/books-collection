@@ -1,44 +1,40 @@
 # Project Submission Report
 
-**Name**: Devendra Yalamaddi  
+**Name**: Sri Hasnika  
 **College**: VNR Vignana Jyothi Institute of Engineering and Technology  
 **Date**: 07-06-2025  
-**GitLab ID**: @devendra2022
+**GitLab ID**: @Hasnika
 
 ---
 
-## I. Streamlit App: Expense Tracker and Budget Overview
+## I. Streamlit App: Books Collection Dashboard
 
-### 🔗 Deployed App
-[Expense Tracker on Streamlit](https://expense-tracker-1.streamlit.app/)
+### 🔗 Deployed App  
+[Books Collection Dashboard on Streamlit](https://books-collection.streamlit.app/)
 
-### 📂 Source Code
-[GitLab Repository - Expense Tracker](https://code.swecha.org/devendra2022/expense-tracker)
+### 📂 Source Code  
+[Source Code Repository - To be updated]
 
-### 📝 Description
-This Streamlit app helps users manage their personal finances by tracking expenses and providing a budget overview. It consists of two main pages:
+### 📝 Description  
+This Streamlit app helps users manage their book collection by providing pages for book entry and book summary. It allows users to add new books, view summaries, and manage their collection efficiently.
 
-- **Expense Tracker**: Allows users to add new expenses with details such as date, category, description, and amount. It displays all recorded expenses and the total amount spent.
-- **Budget Overview**: Provides visual summaries of expenses by category and monthly trends using bar and line charts. It helps users understand their spending patterns.
-
-The app is built using Python, Streamlit, and Pandas for data handling and visualization.
+The app is built using Python and Streamlit for an interactive and user-friendly experience.
 
 ---
 
-## II. Hugging Face Chatbot
+## II. Additional Tool / Feature
 
-### 🔗 Chatbot Link
-[Chatbot on Hugging Face](https://hf.co/chat/assistant/68577249016f6b7beac09e0e)
+### 🔗 Link  
+[To be updated]
 
-### 📝 Description
-This is an AI-powered chatbot created using Hugging Face’s interface. It demonstrates conversational capabilities, natural language understanding, and simple context handling. The bot interacts with users and can be extended with custom datasets or fine-tuned models.
+### 📝 Description  
+This section is reserved for future features or tools related to the project.
 
 ---
 
 ## III. Conclusion
 
-This submission showcases two modern AI-based tools:
-- A personal finance management app built with Streamlit for expense tracking and budget visualization.
-- A chatbot created using Hugging Face to demonstrate interactive AI capabilities.
+This submission showcases a modern AI-based tool:  
+- A book collection management app built with Streamlit, featuring book entry and summary pages.
 
-Both tools are deployed online and version-controlled through GitLab, ensuring accessibility and maintainability. This project highlights practical implementation of frontend development, data visualization, and AI integration skills.
+The app is deployed online and version-controlled, ensuring accessibility and maintainability. This project highlights practical implementation of frontend development and data management skills.
