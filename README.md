@@ -13,7 +13,7 @@
 [Books Collection Dashboard on Streamlit](https://books-collection.streamlit.app/)
 
 ### 📂 Source Code  
-[Source Code Repository - To be updated]
+[GitHub Repository - Books Collection](https://github.com/Sri-Hasnika/books-collection)
 
 ### 📝 Description  
 This Streamlit app helps users manage their book collection by providing pages for book entry and book summary. It allows users to add new books, view summaries, and manage their collection efficiently.
@@ -22,10 +22,10 @@ The app is built using Python and Streamlit for an interactive and user-friendly
 
 ---
 
-## II. Additional Tool / Feature
+## II. Hugging Face Chat
 
 ### 🔗 Link  
-[To be updated]
+[Hugging Face Chatbot](https://hf.co/chat/assistant/6857a14c6ca8972d0e602bd2)
 
 ### 📝 Description  
 This section is reserved for future features or tools related to the project.
